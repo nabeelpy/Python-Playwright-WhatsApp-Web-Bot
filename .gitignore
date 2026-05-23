@@ -1,0 +1,4 @@
+sessions/
+.idea/
+__pycache__/
+*.pyc
